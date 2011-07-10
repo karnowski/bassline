@@ -1,6 +1,6 @@
 # Bassline
 
-A basic SASS baseline to start projects with. Really simple.
+A basic SASS baseline for starting projects.  Really simple.
 
 ## INCLUDES
 
